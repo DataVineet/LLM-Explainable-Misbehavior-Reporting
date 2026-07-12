@@ -1,0 +1,9 @@
+{
+    "rows": 100000,
+    "columns": 21,
+    "missing_values": 0,
+    "attack_ratio": {
+        "0": 0.54529,
+        "1": 0.45471
+    }
+}
