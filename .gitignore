@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
