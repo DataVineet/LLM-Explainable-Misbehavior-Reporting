@@ -1,25 +1,39 @@
-# Python cache
+# ==========================
+# Python
+# ==========================
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
+*.pyd
 
+# ==========================
 # Virtual Environment
+# ==========================
 venv/
 
+# ==========================
 # Jupyter
+# ==========================
 .ipynb_checkpoints/
 
-# Data
+# ==========================
+# Large Datasets
+# ==========================
 data/raw/
 data/processed/
 
-# Models
-models/*.pkl
+# Keep sample dataset
+!data/samples/
+!data/samples/*.csv
 
-# Logs
-*.log
+# ==========================
+# Saved Models
+# ==========================
+models/saved_models/
+models/shap_values/
 
-# VS Code
-.vscode/
-
-# Temporary files
-*.tmp
+# ==========================
+# Operating System
+# ==========================
+Thumbs.db
+.DS_Store
