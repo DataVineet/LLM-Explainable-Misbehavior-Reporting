@@ -1,30 +1,59 @@
-# LLM-Assisted Explainable Misbehavior Reporting Framework for Cooperative Intelligent Transportation Systems
+# LLM-Assisted Explainable Misbehavior Reporting Framework
 
-## Summer Research Internship
+## Internship
 
-### Student
-Vineet Yadav (2025MSBDA023)
+Summer Research Internship 2026
 
-### Guide
-Dr. Jyoti Grover, Asst. Prof. (MNIT Jaipur)
+Student:
+Vineet Yadav, M.Sc. Computer Science (Big Data Analytics) | Central University of Rajasthan
 
-### Institution
-Central University of Rajasthan
+Guide:
+Dr. Jyoti Grover, Assistant Professor (CSE Department, MNIT Jaipur)
+
+Institution:
+MNIT Jaipur
 
 ---
 
-## Project Objective
+## Objective
 
-This project focuses on detecting malicious vehicle messages in Cooperative Intelligent Transportation Systems (C-ITS) using machine learning models (Random Forest and XGBoost), explainability methods (SHAP and LIME), and Large Language Models (LLMs) to generate human-readable traffic reports.
+Develop an explainable machine learning framework for detecting
+vehicular misbehavior using the VeReMi dataset.
+
+The system combines
+
+• Random Forest / XGBoost
+• SHAP
+• LLM Generated Reports
+
+---
+
+## Repository Structure
+
+...
+
+---
+
+## Current Progress
+
+✔ Dataset collected
+
+✔ Dataset inspected
+
+⬜ Exploratory Data Analysis
+
+⬜ Feature Engineering
+
+⬜ Model Training
+
+⬜ SHAP
+
+⬜ LLM Integration
 
 ---
 
 ## Dataset
 
-VeReMi Dataset
+Raw datasets are not uploaded due to size.
 
----
-
-## Status
-
-Project Setup
+Sample dataset included.
