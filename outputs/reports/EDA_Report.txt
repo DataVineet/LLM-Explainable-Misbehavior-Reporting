@@ -1,0 +1,40 @@
+
+Exploratory Data Analysis Report
+
+Dataset Size
+------------
+100,000 sampled observations
+
+Features
+--------
+21 columns
+
+Missing Values
+--------------
+None
+
+Duplicate Rows
+--------------
+None
+
+Attack Distribution
+-------------------
+Balanced
+
+Number of Attack Types
+----------------------
+19
+
+Major Findings
+--------------
+- Dataset is clean.
+- No preprocessing issues.
+- Multiple attack classes are available.
+- Correlation exists among related physical variables.
+- Suitable for supervised learning.
+
+Prepared by:
+Vineet Yadav
+
+Project:
+LLM-Assisted Explainable Misbehavior Reporting Framework
