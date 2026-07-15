@@ -1,0 +1,46 @@
+
+PREPROCESSING REPORT
+
+Dataset
+-------
+Veremi Sample Dataset
+
+Rows
+----
+100000
+
+Original Features
+-----------------
+18
+
+Engineered Features
+-------------------
+4
+
+Final Features
+--------------
+22
+
+Missing Values
+--------------
+0
+
+Duplicates
+----------
+0
+
+Scaling
+-------
+StandardScaler
+
+Train Samples
+-------------
+80000
+
+Test Samples
+------------
+20000
+
+Random State
+------------
+42

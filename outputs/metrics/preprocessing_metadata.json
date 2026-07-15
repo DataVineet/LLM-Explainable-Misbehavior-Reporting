@@ -1,0 +1,18 @@
+{
+    "dataset": "Veremi Sample Dataset",
+    "rows": 100000,
+    "features_before_engineering": 18,
+    "features_after_engineering": 22,
+    "engineered_features": [
+        "pos_magnitude",
+        "speed_magnitude",
+        "acceleration_magnitude",
+        "heading_magnitude"
+    ],
+    "missing_values": 0,
+    "duplicates_removed": 0,
+    "train_size": 80000,
+    "test_size": 20000,
+    "scaler": "StandardScaler",
+    "random_state": 42
+}
