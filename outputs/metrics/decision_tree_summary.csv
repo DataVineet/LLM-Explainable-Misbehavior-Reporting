@@ -1,0 +1,11 @@
+Metric,Value
+Algorithm,Decision Tree
+Training Samples,80000
+Testing Samples,20000
+Features,22
+Tree Depth,10
+Accuracy,0.54495
+Precision,0.4993989352567405
+Recall,0.3197712777655597
+F1 Score,0.38989072869880004
+ROC AUC,0.5501154809088731
