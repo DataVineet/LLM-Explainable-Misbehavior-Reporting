@@ -68,3 +68,28 @@ Created new physical features
 ### Next Task
 
 Begin Machine Learning Model Development.
+
+## 25 July 2026
+
+### Completed
+
+- Developed Logistic Regression baseline model.
+- Evaluated baseline using Accuracy, Precision, Recall, F1-score and ROC-AUC.
+- Developed Decision Tree classifier.
+- Tuned tree hyperparameters to avoid overfitting.
+- Generated feature importance rankings.
+- Visualized the first three levels of the decision tree.
+- Saved trained models and evaluation reports.
+- Exported confusion matrices and feature importance plots.
+
+### Key Findings
+
+- Logistic Regression performed poorly because the relationship between features and attacks is highly non-linear.
+- Decision Tree significantly improved Recall and F1-score while maintaining similar Accuracy.
+- `rcvTime` emerged as the most influential feature, followed by positional and motion-based features.
+- Decision Tree demonstrates better capability to capture complex decision boundaries in the VeReMi dataset.
+
+### Next Task
+
+- Train Random Forest classifier.
+- Compare all baseline models.

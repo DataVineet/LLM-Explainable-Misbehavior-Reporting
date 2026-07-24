@@ -34,3 +34,19 @@
 - Decision Tree
 - Random Forest
 - XGBoost
+
+## Week 2
+
+### Completed
+
+- Logistic Regression baseline
+- Decision Tree baseline
+- Model evaluation
+- Feature importance analysis
+- Decision Tree visualization
+
+### Planned
+
+- Random Forest
+- XGBoost
+- Model comparison

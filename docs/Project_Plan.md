@@ -35,8 +35,8 @@
 
 ## Phase 4 — Machine Learning
 
-- [ ] Logistic Regression
-- [ ] Decision Tree
+- [x] Logistic Regression
+- [x] Decision Tree
 - [ ] Random Forest
 - [ ] XGBoost
 - [ ] Hyperparameter Tuning
