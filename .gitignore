@@ -37,3 +37,23 @@ models/shap_values/
 # ==========================
 Thumbs.db
 .DS_Store
+# Trained Models
+models/baseline_models/*.pkl
+models/saved_models/*.pkl
+
+# SHAP outputs
+models/shap_values/
+
+# Large outputs
+outputs/reports/
+outputs/figures/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/

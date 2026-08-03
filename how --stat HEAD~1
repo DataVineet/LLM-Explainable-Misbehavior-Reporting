@@ -1,0 +1,18 @@
+[33mcommit 0597b44411b0caa72e9d8f45f62836d8a90638ac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Vineet Yadav <vtyadav311@gmail.com>
+Date:   Mon Aug 3 23:53:13 2026 +0530
+
+    Completed Notebook 06: Random Forest training, evaluation, feature importance and cross-validation
+
+ models/baseline_models/random_forest_model.pkl     |  Bin [31m0[m -> [32m246940057[m bytes
+ notebooks/06_RandomForest.ipynb                    | 1581 [32m++++++++++++++++++++[m
+ outputs/figures/rf_confusion_matrix.png            |  Bin [31m0[m -> [32m52413[m bytes
+ outputs/figures/rf_cross_validation.png            |  Bin [31m0[m -> [32m131405[m bytes
+ outputs/figures/rf_feature_importance.png          |  Bin [31m0[m -> [32m135186[m bytes
+ outputs/figures/rf_precision_recall_curve.png      |  Bin [31m0[m -> [32m79978[m bytes
+ outputs/figures/rf_roc_curve.png                   |  Bin [31m0[m -> [32m158638[m bytes
+ .../random_forest_classification_report.csv        |    6 [32m+[m
+ outputs/metrics/random_forest_metrics.csv          |    6 [32m+[m
+ outputs/metrics/rf_cross_validation.csv            |    6 [32m+[m
+ outputs/metrics/rf_feature_importance.csv          |   23 [32m+[m
+ 11 files changed, 1622 insertions(+)
